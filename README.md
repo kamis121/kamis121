@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kamis121
-- 👀 I’m interested in games
+- 👋 Hi, I’m kamily
+- 👀 I’m interested in programação
 - 🌱 I’m currently learning pensamento computacional
 - 💞️ I’m looking to collaborate on turma
 - 📫 How to reach me paula.kamily@escola.pr.gov.br
